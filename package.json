@@ -29,7 +29,7 @@
   "dependencies": {
     "opencollective-postinstall": "^2.0.2",
     "prop-types": "^15.5.10",
-    "react-native-permissions": "^1.1.1",
+    "react-native-permissions": "github:opentechiz/react-native-permissions",
     "opencollective": "^1.0.3"
   },
   "devDependencies": {
